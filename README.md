@@ -1,0 +1,2 @@
+# HomeAutomationSystem
+ In this project we have used Arduino uno R3 for controlling the whole process of this project. And a Bluetooth module is used for controlling the home appliances wirelessly. Home appliances will turned ON and OFF when user will touch button in the Bluetooth mobile app in Android mobile phone. To run this project, first we need to download Bluetooth app form Google play store. We can use any Bluetooth app that can send data using Bluetooth. Here are some apps name that can be used BUlB CONTROL ARUDNIO app.
